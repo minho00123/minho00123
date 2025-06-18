@@ -6,23 +6,22 @@
 <p></p>
 
 <h2>Projects</h2>
+<p><a href="https://github.com/minho00123/perfect-journal">Jounie Moment</a>: 타임캡슐 기능을 가진 감사일기 게시판 웹 사이트</p>
 <p><a href="https://github.com/minho00123/netcheck-client">netcheck</a>: 사용자가 입력한 URL의 다양한 네트워크 정보를 알려주는 웹 사이트</p>
 <p><a href="https://github.com/minho00123/checkyourcss">Check Your CSS</a>: 사용자가 만든 프로젝트에서 모든 CSS의 호환성을 알려주는 도구</p>
 
 <h2>Tech Stack</h2>
 <p>
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Zustand-0D0D0D?style=flat-square"/></a>&nbsp
-<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
-<br>
-<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=Vitest&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></a>&nbsp
+  <h3>Backend</h3>
+</p>
+<p>
+  <h3>Frontend</h3>
+</p>
+<p>
+  <h3>Cloud System & Deployment</h3>
+  [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) &nbsp
+  [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#) &nbsp
+  [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#) &nbsp
 </p>
 
 <h2>Contact Me</h2>
